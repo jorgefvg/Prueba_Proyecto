@@ -1,4 +1,4 @@
-# Trabajo Práctico Número 4
+# Plantilla
 
 ## Uso del repositorio
 
@@ -25,7 +25,3 @@ Para compilar el proyecto se utiliza el siguiente comando:
 make all
 
 ```
-
-## License
-
-This work is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
